@@ -1,6 +1,5 @@
 export default [{
   title: 'My Collection',
-  artist: 'Hardik Mehta',
   releaseInfo: 'Punjabi Songs',
   albumCover: '/assets/images/album_covers/starboy.jpg',
   slug: 'the-colors',
